@@ -12,7 +12,7 @@
     "pack-sdk": "^1.0.0"
   },
   "devDependencies": {
-    "webpack": "4.47.0",
-    "webpack-cli": "^4.1.4"
+    "webpack": "^5.47.0",
+    "webpack-cli": "^5.1.4"
   }
 }
