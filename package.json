@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "agora-rtc-sdk-ng-special": "^4.18.3-special.1",
     "pack-sdk": "^1.0.0"
   },
   "devDependencies": {
